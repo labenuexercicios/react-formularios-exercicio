@@ -11,8 +11,8 @@ function Header (){
         </Logo>
         <NavBar>
             <OptionsList>
-                <li><a href="http://localhost:3000/">Área do administrador</a></li>
-                <li><a href="http://localhost:3000/">Cursos</a></li>
+                <li>Área do administrador</li>
+                <li>Cursos</li>
             </OptionsList>
         </NavBar>
     </HeaderContainer>
