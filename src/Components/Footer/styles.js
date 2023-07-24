@@ -6,4 +6,7 @@ export const AllRightsReserved = styled.footer`
     align-items: center;
     justify-content: center;
     background-color: #a8bbc6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 `
